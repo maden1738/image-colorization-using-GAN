@@ -2,3 +2,6 @@ landscape Images/
 .ipynb_checkpoints/
 generator_pickel
 saved_model/
+user_input/
+flagged/
+__pycache__
